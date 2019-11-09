@@ -6,4 +6,4 @@ print("Hello World")
 
 # This asks user to greet him
 name = input("What is your name? ")
-print(f"Hi {name}. Have a nice day!")
+print(f"Hi {name}. How are you?")
